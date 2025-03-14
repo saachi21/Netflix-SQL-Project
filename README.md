@@ -18,4 +18,4 @@ The data for this project is sourced from the Kaggle dataset:
 Dataset Link: [Dataset](netflix_titles.csv)
 
 ## Solutions to the business problems
-(Sol.sql)
+Solutions: [Solutions](Sol.sql)
